@@ -1,7 +1,7 @@
 ---
 home: true
 navbar: true
-actionText: 快速了解
+actionText: 快速了解哈哈哈
 actionLink: views/course_content/start
 
 features:
