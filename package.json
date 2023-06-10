@@ -6,7 +6,7 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "deploy":"bash deploy.sh"
+    "deploy": "bash deploy.sh"
   },
   "repository": {
     "type": "git",
@@ -18,8 +18,9 @@
   "bugs": {
     "url": "https://github.com/yangfuxi/docs/issues"
   },
-  "homepage": "https://github.com/yangfuxi/docs#readme",
+  "homepage": "https://yangfuxi.github.io/docs",
   "dependencies": {
+    "gh-pages": "^5.0.0",
     "vue-template-compiler": "^2.7.14"
   },
   "devDependencies": {
