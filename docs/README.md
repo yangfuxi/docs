@@ -1,10 +1,10 @@
 ---
 home: true
-heroImage: /touxing.png
+heroImage: ./touxing.png
 heroText: 优秀的判断力来自经验，但经验来自于错误的判断
 navbar: true
 actionText: 快速了解哈哈哈
-actionLink: /guide/
+actionLink: /guide/README
 
 features:
   - icon: 🖖

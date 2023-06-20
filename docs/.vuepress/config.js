@@ -1,11 +1,9 @@
 module.exports = {
   base: "/docs/",
   title: "Yangfuxi",
-  description: "personal bolg",
+  description: "personal blog",
   theme: 'reco',
   themeConfig: {
-    logo:'/touxing.png',
-    authorAvatar: '/tird.jpg',
     author:'yfx',
     type:'blog',
     noFoundPageByTencent:false,
